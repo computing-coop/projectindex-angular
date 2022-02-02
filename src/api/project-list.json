@@ -1,6 +1,6 @@
 [
     {
-        "name": "LP—20x20",
+        "name": "Dining Table",
         "type": "Website",
         "season": "Fall 2020",
         "imgRoot": "lp20x20",
@@ -15,7 +15,7 @@
         "smallerImgs": false
     },
     {
-        "name": "Flower Fields",
+        "name": "Flower Vase",
         "type": "Websites",
         "season": "Fall 2020",
         "imgRoot": "flower-field",
@@ -31,7 +31,7 @@
         ],
         "smallerImgs": false
     },
-    {   "name": "Reading Machines",
+    {   "name": "4-7-6 Breath",
         "type": "Websites",
         "season": "Spring 2020 – Ongoing",
         "imgRoot": "rm",
@@ -46,7 +46,7 @@
         "smallerImgs": true
     },
 
-    {   "name": "Miscellaneous Posters",
+    {   "name": "Walking Planters",
         "type": "Poster",
         "season": "Ongoing",
         "imgRoot": "misc-posters",
@@ -63,7 +63,7 @@
         "smallerImgs": true
     },
 
-    {   "name": "Miscellaneous Typefaces",
+    {   "name": "Model Making",
         "type": "Typeface",
         "season": "Summer 2020 – Ongoing",
         "imgRoot": "misc-type",
@@ -78,7 +78,7 @@
         "smallerImgs": true
     },
 
-    {   "name": "Cross Chancery",
+    {   "name": "Perspective Drawing",
         "type": "Typeface",
         "season": "Spring 2020",
         "imgRoot": "cross-chancery",
@@ -93,7 +93,7 @@
         "smallerImgs": true
     },
 
-    {   "name": "Words So Beautiful To Look At",
+    {   "name": "Woolen Mattress",
         "type": "Poster",
         "season": "Spring 2020",
         "imgRoot": "words-so-beautiful",
@@ -110,7 +110,7 @@
         "smallerImgs": true
     },
 
-    {   "name": "Chimeric Worlding",
+    {   "name": "Kitchen Island",
         "type": "Website, Pedagogy",
         "season": "Spring 2020",
         "imgRoot": "chimeric-worlding",
@@ -125,7 +125,7 @@
         "smallerImgs": true
     },
 
-    {   "name": "I Never Want to See the Same Image Twice",
+    {   "name": "Archaic Shelves",
         "type": "Websites",
         "season": "Spring 2019",
         "imgRoot": "dp",
@@ -142,7 +142,7 @@
         "smallerImgs": true
     },
 
-    {   "name": "Save Point",
+    {   "name": "Floating Shelves",
         "type": "Branding",
         "season": "Fall 2019",
         "imgRoot": "save-point",
@@ -157,7 +157,7 @@
         "smallerImgs": false
     },
 
-    {   "name": "UFO Museum Branding",
+    {   "name": "Bench",
         "type": "Branding",
         "season": "Fall 2019",
         "imgRoot": "ufo-museum",
@@ -173,7 +173,7 @@
     },
 
     {
-        "name": "Critical Resistance Re-branding",
+        "name": "Workbench + Sawhorses",
         "type": "Branding",
         "season": "Fall 2018",
         "imgRoot": "critical-resistance",
@@ -198,7 +198,7 @@
 
     },
 
-    {   "name": "A Degree of Rage, History, Her",
+    {   "name": "Toolbox",
         "type": "Book",
         "season": "Spring 2017",
         "imgRoot": "rage",
@@ -228,7 +228,7 @@
         "smallerImgs": true
     },
 
-    {   "name": "I Guess I Hate Banter",
+    {   "name": "Cutting Board",
         "type": "Video",
         "season": "Fall 2017",
         "imgRoot": "banter",
@@ -241,7 +241,7 @@
         "smallerImgs": false
     },
 
-    {   "name": "Sound and Vision",
+    {   "name": "A Long Walk",
         "type": "Video, Sound",
         "season": "Winter 2019",
         "imgRoot": "sound-vision",
@@ -275,7 +275,7 @@
         "smallerImgs": false
     },
 
-    {   "name": "Corpus",
+    {   "name": "Silence",
         "type": "Typeface",
         "season": "Fall 2018",
         "imgRoot": "corpus",
@@ -292,7 +292,7 @@
         "smallerImgs": true
     },
 
-    {   "name": "Your Body is your Greatest Treasure",
+    {   "name": "Welded Side Table",
         "type": "Book",
         "season": "Spring 2018",
         "imgRoot": "fka-twigs",
@@ -319,7 +319,7 @@
         "smallerImgs": false
     },
 
-    {   "name": "In The Mood for Love",
+    {   "name": "Coffee Table",
         "type": "Branding",
         "season": "Fall 2018",
         "imgRoot": "in-the-mood-for-love",
@@ -334,7 +334,7 @@
         "smallerImgs": false
     },
 
-    {   "name": "A Lexicon of Hesitation",
+    {   "name": "Clothing Wardrobe",
         "type": "Poster",
         "season": "Summer 2018",
         "imgRoot": "lexicon-of-hesitation",
@@ -350,7 +350,7 @@
         "smallerImgs": false
     },
 
-    {   "name": "Notes on Western Queerness",
+    {   "name": "3 Legged Stool",
         "type": "Installation",
         "season": "Fall 2018",
         "imgRoot": "note-on-western-queerness",
@@ -380,7 +380,7 @@
         "smallerImgs": true
     },
 
-    {   "name": "True North",
+    {   "name": "Camping Chairs + Table",
         "type": "Video",
         "season": "Summer 2018",
         "imgRoot": "true-north",
@@ -402,7 +402,7 @@
         "smallerImgs": true
     },
 
-    {   "name": "Uncommon Sense",
+    {   "name": "Cot",
         "type": "Book",
         "season": "Spring 2018",
         "imgRoot": "uncommon-sense",
@@ -453,7 +453,7 @@
         "smallerImgs": true
     },
 
-    {   "name": "Milk and Fresh Snow",
+    {   "name": "A bed",
         "type": "Multimedia",
         "season": "Spring 2018",
         "imgRoot": "whiteness-hyperobject",
