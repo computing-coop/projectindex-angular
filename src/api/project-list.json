@@ -1,8 +1,8 @@
 [
     {
         "name": "Dining Table",
-        "type": "Website",
-        "season": "Fall 2020",
+        "type": "Furniture",
+        "season": "Spring 2021",
         "imgRoot": "lp20x20",
         "imgs": [
 
@@ -16,8 +16,8 @@
     },
     {
         "name": "Flower Vase",
-        "type": "Websites",
-        "season": "Fall 2020",
+        "type": "Home Goods",
+        "season": "Winter 2021",
         "imgRoot": "flower-field",
         "imgs": [
 
@@ -32,7 +32,7 @@
         "smallerImgs": false
     },
     {   "name": "4-7-6 Breath",
-        "type": "Websites",
+        "type": "Body Space",
         "season": "Spring 2020 – Ongoing",
         "imgRoot": "rm",
         "imgs": [

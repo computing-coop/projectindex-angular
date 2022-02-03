@@ -1,6 +1,14 @@
 $main-color: black;
 $background-color: white;
 
+/* TYPEFACES-------------------------------------- */
+
+@font-face {
+	font-family: 'selectric-mono';
+	src: url('/assets/fonts/SelectricMono.otf');
+}
+
+
 @mixin for-size($size) {
     @if $size == phone-only {
       @media (max-width: 599px) { @content; }
